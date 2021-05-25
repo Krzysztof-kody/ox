@@ -10,7 +10,7 @@ public class Board extends JPanel implements MouseListener {
     public void paintComponent(Graphics g){
         super.paintComponent(g);
         g.fillRect(0,0,400, 400);
-        
+
     }
 
     @Override
